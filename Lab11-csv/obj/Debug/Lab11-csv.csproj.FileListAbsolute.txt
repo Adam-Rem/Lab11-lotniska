@@ -1,0 +1,12 @@
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11-csv.csproj.AssemblyReference.cache
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11-csv.csproj.SuggestedBindingRedirects.cache
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11_csv.Form1.resources
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11_csv.Properties.Resources.resources
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11-csv.csproj.GenerateResource.cache
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11-csv.csproj.CoreCompileInputs.cache
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\bin\Debug\Lab11-csv.exe.config
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\bin\Debug\Lab11-csv.exe
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\bin\Debug\Lab11-csv.pdb
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11-csv.exe
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11-csv.pdb
+C:\Users\adama\Source\Repos\Lab11-csv\Lab11-csv\obj\Debug\Lab11_csv.Form2.resources
